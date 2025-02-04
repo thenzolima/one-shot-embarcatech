@@ -27,4 +27,4 @@ Feito por: Enzo Lima Alves dos Santos (tic370100120)
 4. Com o ambiente configurado, basta abrir o `diagram.json` e executar o simulador
 
 ---
-Essa é uma das atividades do dia 29/01/2025. Segue o link da [Atividade 1]()
+Essa é uma das atividades do dia 29/01/2025. Segue o link da [Atividade 1](https://github.com/thenzolima/semaforo-embarcatech)
